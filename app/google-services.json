@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309431439621",
+    "firebase_url": "https://vtube-fae4a.firebaseio.com",
+    "project_id": "vtube-fae4a",
+    "storage_bucket": "vtube-fae4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309431439621:android:e2f2a8cccad5068eea676c",
+        "android_client_info": {
+          "package_name": "com.khudrosoft.visiontube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309431439621-roemv517ugulmn63mpts4s5fsl070tfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khudrosoft.visiontube",
+            "certificate_hash": "db795ce2a20a0cc0c07339cfd4a48bdc871008a8"
+          }
+        },
+        {
+          "client_id": "309431439621-ced8h8to3jvgm3ia3jmsc3cejvu6dr80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPps2kOIVjYUW8--Yv64V7DCz6SEKasfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309431439621-ced8h8to3jvgm3ia3jmsc3cejvu6dr80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
